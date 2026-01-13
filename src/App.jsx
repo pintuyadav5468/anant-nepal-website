@@ -503,8 +503,13 @@ const MissionVisionGoals = () => (
           Who We Are
         </h2>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          A women-led NGO committed to building resilient, equitable, and
-          self-reliant communities across Nepal
+         At Anant Nepal, our mission is to drive meaningful, sustainable change by addressing interconnected challenges that affect the well-being and resilience of individuals, families, and communities across Nepal.We are committed to:  Enhancing access to clean water, hygiene, and sanitation (WASH) — ensuring safe, reliable, and inclusive services that protect health and dignity for all.  
+Advocating for peace, conflict resolution, democracy, human rights, inclusivity, transparency, and accountability — building a just society where every voice is heard and fundamental rights are upheld.  
+Empowering women through targeted leadership development, active participation in humanitarian response, and disaster risk reduction efforts — recognizing their central role in creating stronger, more equitable communities.  
+Conducting research and evidence-based advocacy on gender-responsive and inclusive policies in disaster risk reduction (DRR), climate change adaptation, and environmental protection — to influence systemic improvements that prioritize the most vulnerable.  
+Raising awareness about prevalent hazards, emerging disaster risks, and proven strategies for effective disaster risk management.  
+Fostering preparedness and building resilience among vulnerable communities, schools, and local governments — equipping them with the knowledge, skills, and resources to anticipate, respond to, and recover from crises.
+Through these integrated efforts, we work collaboratively with communities, local governments, and partners to create lasting impact — promoting health, equality, justice, and resilience for a more secure and inclusive Nepal.
         </p>
       </div>
 
@@ -515,9 +520,11 @@ const MissionVisionGoals = () => (
           </div>
           <h3 className="text-2xl font-bold mb-4 text-blue-900">Our Vision</h3>
           <p className="text-gray-700 leading-relaxed">
-            A just and resilient society where all people, especially women,
-            marginalized groups, and vulnerable communities, live with dignity,
-            equity, and self-reliance.
+            At Anant Nepal, we envision a Nepal where every individual, every family, and every community is:  Resourceful — equipped with the knowledge, skills, and opportunities to shape their future  
+Well-informed — empowered by access to accurate information and awareness  
+Prepared — ready to anticipate, respond to, and recover from challenges and crises  
+Resilient — able to withstand shocks, adapt, and thrive in the face of adversity
+We dream of a just, inclusive, and sustainable society where no one is left behind.
           </p>
         </div>
 
@@ -541,9 +548,16 @@ const MissionVisionGoals = () => (
           </div>
           <h3 className="text-2xl font-bold mb-4 text-purple-900">Our Goal</h3>
           <p className="text-gray-700 leading-relaxed">
-            To establish ANANT Nepal as a leading organization promoting
-            inclusive development, social justice, and resilience through
-            community-centered interventions and strategic partnerships.
+            To organize and unite women and youth into strong, active groups, and build their leadership and technical capacities — so they can serve as powerful change agents, driving sustainable development and positive transformation from within their own communities.  Objectives: We work toward:  Raising awareness, consciousness, and collective concern among women and youth, especially those from marginalized and vulnerable backgrounds  
+Providing safe, inclusive platforms where they can openly discuss, plan, implement, and advocate for issues that matter most to them  
+Ensuring meaningful access to relevant information, resources, and networks  
+Supporting them to achieve tangible, lasting outcomes in key areas:
+•⁠  ⁠Community resilience and disaster preparedness
+•⁠  ⁠Sustainable livelihoods and economic empowerment
+•⁠  ⁠Improved health and well-being (including WASH)
+•⁠  ⁠Strengthened value chains and local economic systems
+•⁠  ⁠Effective policy advocacy for gender-responsive, inclusive, and equitable development
+Through these focused efforts, Anant Nepal aims to enable women and youth to lead change — creating ripple effects that strengthen families, uplift communities, and contribute to a more equitable and resilient nation.
           </p>
         </div>
       </div>
